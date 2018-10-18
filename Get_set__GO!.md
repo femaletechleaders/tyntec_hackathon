@@ -1,6 +1,6 @@
 ## Getting Organised:
 
-1. Join the [slack channel](https://join.slack.com/t/ftl-tyntec-hackathon/signup).
+1. Join the [slack channel](https://join.slack.com/t/ftl-tyntec-hackathon/shared_invite/enQtNDU2NzU1OTY5NTQxLWE2ZGFmNmMyOWYyOGNhNTk0MGU4ZTIyNjgxMjc5MGQxNDQ3NzE5YmI1MDc0MDQyNjE5ZGVjMDZkNDExZGZkNzA).
 
 1. Have a look at the official [API Documentation](https://docs.tyntec.com/en/content/sms/http/) and the introduction to using [Postman](/resources/PostmanAndCollectionPresentation.pdf) or [curl](/resources/services-with-curl.md) with the tyntec API.
 
