@@ -4,7 +4,7 @@
 
 Bring your dream Chatbot to life, by using APIs built by tyntec.
 
-To get up and running ASAP follow the instructions [here](Get_set__GO!.md).
+**To get up and running ASAP follow the instructions [here](Get_set__GO!.md).**
 
 Chatbots are changing the world. From customer service to ordering pizza, these electronic assistants are replacing humans in an increasing amount of services. They are built to enhance automated tasks using APIs, allowing computers and humans to interact in a simple way.
 
