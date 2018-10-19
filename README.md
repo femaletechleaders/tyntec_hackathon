@@ -45,10 +45,9 @@ Plus, tyntec is a tech company led by CEO Nicola Wolfram, which makes this colla
 
 
 
-
-
 ## What to bring
-- A laptop (don't forget the power chord)
+- A laptop (don't forget the power chord).
+- A cable to charge your phone.
 - Make sure your development environment is up and running ([this repo](https://github.com/sahat/hackathon-starter) is quite a slick setup for hackathons). It sucks to waste your precious time on that at the event.
 - Earphones, since it might be noisy.
 - Some warm and comfortable clothes.
@@ -63,7 +62,13 @@ There are a bunch of cool prizes up for grabs, such as amazon echo dots, speaker
 
 ## Sleeping Over
 
- Hackers are invited to hack through the night and to sleep in tyntec's office. Feel free to bring your sleeping bags and pillows! 
+Hackers are invited to hack through the night and to sleep in tyntec's office. Feel free to bring your sleeping bags and pillows! 
+
+## Rules
+
+ 1. All teams need to provide us a link to their repo's and provide a short README that allows us to reproduce the demo.
+ 1. You are welcome to use open source frameworks, libraries and utilities, but please list these in your project repo README.
+ 1. Of course we want to keep it fair, so you will be judged on the work that you did at the hackathon. If you are continuing with a personal project, we need to know the state of the work before the hackathon.
 
 ## Judging Criteria
 
@@ -78,6 +83,9 @@ There are a bunch of cool prizes up for grabs, such as amazon echo dots, speaker
 
 While the presentation only has a very small weighting, it is important to remember that it has a much bigger influence overall. If you don't show us clearly what you did and why, it is difficult to judge your performance on the other criteria.
 
+Hackathons are all about learning new skills, so if you tackled a new technology or framework in your project, let us know. It will improve the score you get for technical sophistication!
+
+Demo's are better than presentations, but if your demo is not fully functional by the time of the pitches just do a presentation. You will only lose points for "Completion" so you could still be in the running for prizes. 
 
 # Let's Hack!
 
